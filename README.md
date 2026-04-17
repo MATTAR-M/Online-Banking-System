@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 🏦 Online Banking System API
 
 A robust, secure, and fully functional Backend API for an Online Banking System. Built with Node.js, Express, and MongoDB, this project simulates real-world banking operations including deposits, withdrawals, secure transfers, and detailed account statements.
