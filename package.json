@@ -1,0 +1,25 @@
+{
+  "name": "onlinebankingsystem",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "startdev": "cross-env NODE_ENV=development node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cross-env": "^10.1.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "joi": "^18.1.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.4.1",
+    "redis": "^5.12.1",
+    "uuid": "^13.0.0"
+  }
+}
